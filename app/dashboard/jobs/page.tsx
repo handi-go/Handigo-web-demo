@@ -6,7 +6,7 @@ const jobRequests = [
   {
     id: "1",
     title: "Plumbing Repair",
-    client: "John Smith",
+    client: "Johnson mary",
     location: "123 Main St, Anytown",
     status: "pending",
     date: "2023-05-15",
